@@ -39,6 +39,7 @@
 					</execution>
 				</executions>
 				<configuration>
+					<executable>true</executable>
 					<mainClass>com.ppy.MainApplication</mainClass>
 				</configuration>
 			</plugin>
